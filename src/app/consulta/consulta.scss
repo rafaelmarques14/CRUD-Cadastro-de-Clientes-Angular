@@ -1,0 +1,5 @@
+::ng-deep .mat-column-cpf {
+  white-space: nowrap; // Impede que o texto quebre em várias linhas
+  width: 150px;        // Define uma largura fixa para a coluna
+  padding-right: 16px; // Adiciona um espaço à direita para não colar na próxima coluna
+}
