@@ -57,3 +57,10 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+Tela de Cadastro de Clientes
+<img width="1905" height="896" alt="image" src="https://github.com/user-attachments/assets/3cce0789-0167-4dff-94c0-a18eae1b7cbf" />
+
+Tela de Consulta de Clientes
+<img width="1895" height="611" alt="image" src="https://github.com/user-attachments/assets/f399891a-dac8-4de6-a68c-35b76185f0af" />
+
